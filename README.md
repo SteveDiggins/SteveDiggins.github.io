@@ -1,5 +1,4 @@
 # SteveDiggins.github.io
-This is still a work in progress.
 <br>
 <a href="https://stevediggins.github.io/">My Page</a>
 <br>
