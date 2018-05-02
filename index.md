@@ -15,7 +15,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
-I have a Wordpress site at &lt;a href="http://www.stevediggins.com/"&gt;Steve Diggins.com&lt;/a&gt;.
+I have a Wordpress site at http://www.stevediggins.com/
 
 
 https://twitter.com/SDiggins
@@ -26,6 +26,6 @@ https://www.linkedin.com/in/stevediggins
 
 http://www.imdb.com/name/nm4337718/
 
-https://github.com/SteveDiggins/SteveDiggins.github.io/wiki/Steve's-Wiki-Page
+
 
 
