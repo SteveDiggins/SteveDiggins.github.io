@@ -17,6 +17,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 I have a Wordpress site at http://www.stevediggins.com/
 
+https://github.com/SteveDiggins/SteveDiggins.github.io/wiki/WIKI-Page
 
 https://twitter.com/SDiggins
 
