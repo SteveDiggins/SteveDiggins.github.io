@@ -14,30 +14,18 @@ You can @mention a GitHub username to generate a link to their profile. The resu
 Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-<html>
-<head>
 
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<title></title>
-</head>
-<body>
-<pre>&lt;!DOCTYPE html&gt;
-
-&lt;h1&gt;Steve Diggins&lt;/h1&gt;
-&lt;h2&gt;Welcome to my Github page!&lt;/h2&gt;
-&lt;br&gt;
 I have a Wordpress site at &lt;a href="http://www.stevediggins.com/"&gt;Steve Diggins.com&lt;/a&gt;.
 
-&lt;/p&gt;
-&lt;a href="https://twitter.com/SDiggins"&gt;@SDiggins&lt;/a&gt;.
-&lt;br&gt;
-&lt;a href="https://www.facebook.com/stevedigginscom-490952014346878/"&gt;Facebook Page&lt;/a&gt;.
-&lt;br&gt;
-&lt;a href="https://www.linkedin.com/in/stevediggins"&gt;LinkedIn&lt;/a&gt;.
-&lt;br&gt;
-&lt;a href="http://www.imdb.com/name/nm4337718/"&gt;IMDB&lt;/a&gt;.
-&lt;br&gt;
-&lt;a href="https://github.com/SteveDiggins/SteveDiggins.github.io/wiki/Steve's-Wiki-Page"&gt;My Wiki Page&lt;/a&gt;.
-&lt;br&gt; </pre>
-</body>
-</html>
+
+https://twitter.com/SDiggins
+
+https://www.facebook.com/stevedigginscom-490952014346878/
+
+https://www.linkedin.com/in/stevediggins
+
+http://www.imdb.com/name/nm4337718/
+
+https://github.com/SteveDiggins/SteveDiggins.github.io/wiki/Steve's-Wiki-Page
+
+
