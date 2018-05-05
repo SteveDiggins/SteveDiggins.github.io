@@ -15,16 +15,16 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
-I have a Wordpress site at http://www.stevediggins.com/
+I have a Wordpress site at (http://www.stevediggins.com/)
 
-https://github.com/SteveDiggins/SteveDiggins.github.io/wiki/WIKI-Page
+(https://github.com/SteveDiggins/SteveDiggins.github.io/wiki/WIKI-Page)
 
-https://twitter.com/SDiggins
+(https://twitter.com/SDiggins)
 
-https://www.facebook.com/stevedigginscom-490952014346878/
+(https://www.facebook.com/stevedigginscom-490952014346878/)
 
-https://www.linkedin.com/in/stevediggins
+(https://www.linkedin.com/in/stevediggins)
 
-http://www.imdb.com/name/nm4337718/
+(http://www.imdb.com/name/nm4337718/)
 
 
