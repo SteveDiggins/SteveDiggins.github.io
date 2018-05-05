@@ -17,14 +17,20 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 I have a Wordpress site at (http://www.stevediggins.com/)
 
-(https://github.com/SteveDiggins/SteveDiggins.github.io/wiki/WIKI-Page)
 
-(https://twitter.com/SDiggins)
+<a href="https://github.com/SteveDiggins/SteveDiggins.github.io/wiki/WIKI-Page" target="_blank" rel="noopener noreferrer">USNO Time</a>
 
-(https://www.facebook.com/stevedigginscom-490952014346878/)
+<a href="https://twitter.com/SDiggins" target="_blank" rel="noopener noreferrer">USNO Time</a>
 
-(https://www.linkedin.com/in/stevediggins)
 
-(http://www.imdb.com/name/nm4337718/)
+<a href="https://www.facebook.com/stevedigginscom-490952014346878/" target="_blank" rel="noopener noreferrer">USNO Time</a>
+
+
+<a href="https://www.linkedin.com/in/stevediggins" target="_blank" rel="noopener noreferrer">USNO Time</a>
+
+<a href="http://www.imdb.com/name/nm4337718/" target="_blank" rel="noopener noreferrer">USNO Time</a>
+
+
+
 
 
