@@ -15,7 +15,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
-I have a Wordpress site at (http://www.stevediggins.com/)
+I have a Wordpress site at <a href="http://www.stevediggins.com/" target="_blank" rel="noopener noreferrer">SteveDiggins.com</a>
 
 
 <a href="https://github.com/SteveDiggins/SteveDiggins.github.io/wiki/WIKI-Page" target="_blank" rel="noopener noreferrer">WIKI Page</a>
