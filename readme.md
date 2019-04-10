@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
 
-</head>
-<body>
 
 <h1>SteveDiggins.github.io</h1>
 
@@ -16,6 +11,3 @@
 <a href="1168.pdf">Time and Frequency Measurement</a>
 
 
-
-</body>
-</html>
