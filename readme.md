@@ -8,6 +8,5 @@
 <br>
 <a href="https://github.com/SteveDiggins/SteveDiggins.github.io/wiki/WIKI-Page">My Wiki</a>
 <br>
-<a href="1168.pdf">Time and Frequency Measurement</a>
 
 
